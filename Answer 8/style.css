@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  padding: 70px;
+}
+
+p{
+  padding: 70px;  
+  color: rgba(0, 0, 255, 0.5);
+}
